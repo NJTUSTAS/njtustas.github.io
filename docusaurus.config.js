@@ -81,11 +81,11 @@ const config = {
             items: [
               {
                 label: '电子组文档',
-                to: '/docs/intro',
+                to: '/docs/electronics/intro',
               },
               {
                 label: '编程组文档',
-                to: '/docs/intro',
+                to: '/docs/electronics/intro',
               },
             ],
           },
