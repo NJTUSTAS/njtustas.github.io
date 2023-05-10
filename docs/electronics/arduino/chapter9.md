@@ -8,7 +8,7 @@ title: 单片机的存储器和EEPROM
 
 一般单片机的存储空间可以用下图表示：
 
-![MCU Memory](images/9-2.png)
+![MCU Memory](./images/9-2.png)
 
 单片机中**SRAM(Static Random-Access Memory)**，主要是用于存储程序运行过程中的变量，因为 RAM 拥有读写速度快的优点，但是 RAM 的数据在掉电后会丢失。
 
@@ -22,7 +22,7 @@ EEPROM 的主要特点如下：
 
 单片机中的 EEPROM 的由来和发展非常有意思，可以用下面的图表示：
 
-![EEPROM由来](images/9-1.png)
+![EEPROM由来](./images/9-1.png)
 
 Flash 和 EEPROM 在某些方面比较相似。因为 Flash 就是由 EEPROM 发展而来，支持大擦除块，一般是**512 字节甚至更高**，EEPROM 不仅擦除块小，且每次擦除都需要大概 3.3ms 左右，因此，Flash 更适合用来做为程序储存空间。Flash 和 EEPROM 一样，掉电后数据不会丢失，属于**Non-Volatile Memory**，因此在一些没有 EEPROM 的单片机上，可以使用 Flash 代替 EEPROM，比如 ESP32。但是 Flash 的擦写周期要比 EEPROM 短，通常在**10,000**次。
 

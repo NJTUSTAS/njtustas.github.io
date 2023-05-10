@@ -86,4 +86,4 @@ ms 参数：参数就是延时时间，单位是毫秒，数据类型为`unsigne
 
 整个程序的流程示意图如下：
 
-![Blink](images/2-1.png)
+![Blink](./images/2-1.png)

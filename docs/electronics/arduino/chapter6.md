@@ -21,7 +21,7 @@ Arduino 数字引脚只能输出 5V（当变为高电平时）或 0V（当变为
 
 下面是 PWM 原理的示意图：
 
-![PWM](images/6-1.png)
+![PWM](./images/6-1.png)
 
 ## 2. 使用 PWM
 

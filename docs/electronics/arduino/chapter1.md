@@ -10,27 +10,27 @@ Arduino 至今拥有非常多的开发板，其中最为流行的就是 8 位的
 
 AVR 开发板：
 
-|          Arduino Uno           |          Arduino Nano           | Arduino Mega                    |
-| :----------------------------: | :-----------------------------: | :------------------------------ |
-| ![Arduino Uno](images/1-1.png) | ![Arduino Nano](images/1-2.png) | ![Arduino Mega](images/1-3.png) |
+|           Arduino Uno            |           Arduino Nano            | Arduino Mega                      |
+| :------------------------------: | :-------------------------------: | :-------------------------------- |
+| ![Arduino Uno](./images/1-1.png) | ![Arduino Nano](./images/1-2.png) | ![Arduino Mega](./images/1-3.png) |
 
 Arduino Nano 33 系列开发板：
 
-|          Arduino Nano 33 IOT           |          Arduino Nano 33 BLE           | Arduino Nano 33 BLE Sense                    |
-| :------------------------------------: | :------------------------------------: | :------------------------------------------- |
-| ![Arduino Nano 33 IOT](images/1-4.png) | ![Arduino Nano 33 BLE](images/1-5.png) | ![Arduino Nano 33 BLE Sense](images/1-6.png) |
+|           Arduino Nano 33 IOT            |           Arduino Nano 33 BLE            | Arduino Nano 33 BLE Sense                      |
+| :--------------------------------------: | :--------------------------------------: | :--------------------------------------------- |
+| ![Arduino Nano 33 IOT](./images/1-4.png) | ![Arduino Nano 33 BLE](./images/1-5.png) | ![Arduino Nano 33 BLE Sense](./images/1-6.png) |
 
 Arduino 还有一些工业级的开发板：
 
-|           Arduino MKR Vidor 4000           |           Arduino MKR NB 1500           |           Arduino Portenta H7           |
-| :----------------------------------------: | :-------------------------------------: | :-------------------------------------: |
-| ![Arduino MKR Vidor 4000](images/1-11.png) | ![Arduino MKR NB 1500](images/1-12.png) | ![Arduino Portenta H7](images/1-13.png) |
+|            Arduino MKR Vidor 4000            |            Arduino MKR NB 1500            |            Arduino Portenta H7            |
+| :------------------------------------------: | :---------------------------------------: | :---------------------------------------: |
+| ![Arduino MKR Vidor 4000](./images/1-11.png) | ![Arduino MKR NB 1500](./images/1-12.png) | ![Arduino Portenta H7](./images/1-13.png) |
 
 以及一批不再生产的退休开发板:
 
-|          Arduino Lilypad           |          Arduino ESPLORA           |           Arduino YUN Shiled           |
-| :--------------------------------: | :--------------------------------: | :------------------------------------: |
-| ![Arduino Lilypad](images/1-7.png) | ![Arduino ESPLORA](images/1-8.png) | ![Arduino YUN Shield](images/1-14.png) |
+|           Arduino Lilypad            |           Arduino ESPLORA            |            Arduino YUN Shiled            |
+| :----------------------------------: | :----------------------------------: | :--------------------------------------: |
+| ![Arduino Lilypad](./images/1-7.png) | ![Arduino ESPLORA](./images/1-8.png) | ![Arduino YUN Shield](./images/1-14.png) |
 
 ## 2. Arduino Uno
 
@@ -38,7 +38,7 @@ Arduino Uno 可以说是 Arduino 开发板家族中最为流行的一款，可�
 
 下面是 Arduino Uno 的引脚图：
 
-![Arduino引脚图](images/1-9.png)
+![Arduino引脚图](./images/1-9.png)
 
 可以发现 Arduino Uno 有以下几个引脚分布：
 
@@ -74,7 +74,7 @@ Arduino IDE 是一个开源的软件，它使编写代码和上传到开发板�
 
 下面是 Arduino IDE 的基本信息，关于该 IDE 的更多使用可以访问官方教程：[Arduino IDE Guide](https://www.arduino.cc/en/Guide)
 
-![Arduino IDE](images/1-10.png)
+![Arduino IDE](./images/1-10.png)
 
 ### Arduino 2.x
 
