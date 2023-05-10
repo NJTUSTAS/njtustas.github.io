@@ -63,7 +63,7 @@ const config = {
           },
           {
             to: "/blog",
-            label: "博客文章",
+            label: "动态文章",
             position: "left",
           },
           {
@@ -83,19 +83,11 @@ const config = {
                 label: "电子组文档",
                 to: "/docs/electronics/intro",
               },
-              {
-                label: "编程组文档",
-                to: "/docs/electronics/intro",
-              },
             ],
           },
           {
             title: "资源",
             items: [
-              {
-                label: "本站仓库",
-                to: "https://github.com/NJTUSTAS/njtustas.github.io",
-              },
               {
                 label: "值班笔记",
                 href: "https://punch.mraddict.top",
