@@ -449,7 +449,6 @@ const sidebars = {
             },
           ],
         },
-
         {
           type: "category",
           label: "半小时入门",
