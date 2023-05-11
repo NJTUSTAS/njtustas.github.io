@@ -17,11 +17,11 @@ const config = {
   projectName: "njtustas.github.io",
 
   onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "warn",
+  onBrokenMarkdownLinks: "throw",
 
   i18n: {
     defaultLocale: "zh-Hans",
-    locales: ["zh-Hans"],
+    locales: ["zh-Hans"]
   },
 
   presets: [
@@ -30,18 +30,18 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve("./sidebars.js"),
+          sidebarPath: require.resolve("./sidebars.js")
         },
         blog: {
           showReadingTime: true,
           blogSidebarTitle: "所有文章",
-          blogSidebarCount: "ALL",
+          blogSidebarCount: "ALL"
         },
         theme: {
-          customCss: require.resolve("./src/css/custom.css"),
-        },
-      }),
-    ],
+          customCss: require.resolve("./src/css/custom.css")
+        }
+      })
+    ]
   ],
 
   themeConfig:
@@ -52,26 +52,26 @@ const config = {
         title: "技术开发部",
         logo: {
           alt: "logo",
-          src: "favicon.ico",
+          src: "favicon.ico"
         },
         items: [
           {
             type: "docSidebar",
             sidebarId: "docs",
             position: "left",
-            label: "部门文档",
+            label: "部门文档"
           },
           {
             to: "/blog",
             label: "动态文章",
-            position: "left",
+            position: "left"
           },
           {
             href: "https://github.com/NJTUSTAS/njtustas.github.io",
             label: "GitHub",
-            position: "right",
-          },
-        ],
+            position: "right"
+          }
+        ]
       },
       footer: {
         style: "dark",
@@ -81,44 +81,44 @@ const config = {
             items: [
               {
                 label: "电子组文档",
-                to: "/docs/electronics/intro",
-              },
-            ],
+                to: "/docs/electronics/intro"
+              }
+            ]
           },
           {
             title: "资源",
             items: [
               {
                 label: "南工OJ",
-                href: "https://acm.online.njtech.edu.cn",
+                href: "https://acm.online.njtech.edu.cn"
               },
               {
                 label: "值班笔记",
-                href: "https://punch.mraddict.top",
-              },
-            ],
+                href: "https://punch.mraddict.top"
+              }
+            ]
           },
           {
             title: "友链",
             items: [
               {
                 label: "远景实验室",
-                href: "https://www.vistalab.top",
+                href: "https://www.vistalab.top"
               },
               {
                 label: "Mars工作室",
-                href: "https://marsstudio.vercel.app",
-              },
-            ],
-          },
+                href: "https://studio.online.njtech.edu.cn"
+              }
+            ]
+          }
         ],
-        copyright: `Copyright &copy; ${new Date().getFullYear()} 校大学生科协. All rights reversed.`,
+        copyright: `Copyright &copy; ${new Date().getFullYear()} 校大学生科协. All rights reversed.`
       },
       prism: {
         theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
-      },
-    }),
+        darkTheme: darkCodeTheme
+      }
+    })
 };
 
 module.exports = config;
