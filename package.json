@@ -16,6 +16,7 @@
     "lint": "prettier --plugin-search-dir . --check .",
     "format": "prettier --plugin-search-dir . --write ."
   },
+  "precommit": "format",
   "dependencies": {
     "@docusaurus/core": "2.4.0",
     "@docusaurus/preset-classic": "2.4.0",
@@ -28,6 +29,7 @@
   "devDependencies": {
     "@docusaurus/module-type-aliases": "2.4.0",
     "@tsconfig/docusaurus": "^1.0.5",
+    "pre-commit": "^1.2.2",
     "prettier": "^2.8.8",
     "typescript": "^4.7.4"
   },
