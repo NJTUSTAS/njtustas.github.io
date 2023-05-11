@@ -2,7 +2,7 @@
 title: Markdown语法(1)
 ---
 
-# Markdown 语法
+# Markdown 语法(1)
 
 ## 1. 标题
 

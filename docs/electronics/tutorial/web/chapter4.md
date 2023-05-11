@@ -21,7 +21,7 @@ title: 自我介绍
 ## 二、相关链接
 
 - 示例源码：[profile](profile.zip)
-- 分享网址：[https://hello.mraddict.one](https://hello.mraddict.one/)
+- 分享网址：~~https://hello.mraddict.one~~(已失效)
 
 ## 三、示例图片
 

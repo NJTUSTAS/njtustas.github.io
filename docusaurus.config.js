@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "技术部文档",
-  tagline: "热情，投入，技术，极致",
+  tagline: "热情，投入，技术",
   favicon: "favicon.ico",
 
   url: "https://njtustas.github.io",
@@ -89,6 +89,10 @@ const config = {
             title: "资源",
             items: [
               {
+                label: "南工OJ",
+                href: "https://acm.online.njtech.edu.cn",
+              },
+              {
                 label: "值班笔记",
                 href: "https://punch.mraddict.top",
               },
@@ -97,10 +101,6 @@ const config = {
           {
             title: "友链",
             items: [
-              {
-                label: "南工OJ",
-                href: "https://acm.online.njtech.edu.cn",
-              },
               {
                 label: "远景实验室",
                 href: "https://www.vistalab.top",

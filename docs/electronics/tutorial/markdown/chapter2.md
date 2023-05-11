@@ -2,7 +2,7 @@
 title: Markdown语法(2)
 ---
 
-# Markdown 语法
+# Markdown 语法(2)
 
 ## 1. 代码
 
