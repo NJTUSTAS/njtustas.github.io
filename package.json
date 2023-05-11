@@ -16,7 +16,7 @@
     "lint": "prettier --plugin-search-dir . --check .",
     "format": "prettier --plugin-search-dir . --write ."
   },
-  "precommit": "format",
+  "precommit": "lint",
   "dependencies": {
     "@docusaurus/core": "2.4.0",
     "@docusaurus/preset-classic": "2.4.0",

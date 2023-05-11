@@ -7,9 +7,9 @@ const sidebars = {
       type: "doc",
       label: "说明",
       id: "intro"
-    }
-    ,
-    ...electronics]
+    },
+    ...electronics
+  ]
 };
 
 module.exports = sidebars;
