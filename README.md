@@ -2,13 +2,23 @@
 
 ## 1. 项目开发
 
+安装 Git，前往 [Git 官网](https://git-scm.com/downloads)下载安装。
+
+安装 Node，需要有 Node16 及以上的版本，建议安装 **Node18**，你可以前往 [Node 官网](https://nodejs.org)下载安装。
+
+克隆项目：
+
+```sh
+git clone https://github.com/NJTUSTAS/njtustas.github.io.git
+```
+
 开发项目：
 
-```
+```sh
 npm start
 ```
 
-启动后会自动跳转至[http://localhost:3000](http://localhost:3000)。
+启动后浏览器会自动跳转至[http://localhost:3000](http://localhost:3000)。
 
 ## 2. 注意事项
 
@@ -16,7 +26,7 @@ npm start
 
 首先你需要有使用 Git、Github 的经验，会写 Markdown。
 
-另外，本项目使用的文档框架是[Docusaurus](https://docusaurus.io/)，也是由 Facebook 领导开发的一个开源项目，底层使用的是 React 和 Webpack，开发前建议先阅读一下相关文档。如果你要开发独立的页面，需要了解 React 和 Typescript；如果只是写文档和文章，只需要知道这个框架的结构，会写 Markdown 就可以了。
+另外，本项目使用的文档框架是[Docusaurus](https://docusaurus.io/)，也是由 Facebook 领导开发的一个开源项目，底层使用的是 React 和 Webpack，开发前建议先阅读一下他们的文档。如果你要开发独立的页面，需要了解 React 和 Typescript；如果只是写文档和文章，只需要知道这个框架的结构，会写 Markdown 就可以了。
 
 ### 2.2 Mardkown 规范
 
