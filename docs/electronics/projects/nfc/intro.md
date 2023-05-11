@@ -1,5 +1,6 @@
 ---
 title: 办公室门禁历史
+slug: /electronics/projects/nfc
 ---
 
 # 办公室门禁历史

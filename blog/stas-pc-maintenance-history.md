@@ -60,7 +60,7 @@ authors:
 
 <img width="300" alt="2021-2022第一学年" src='/assets/images/stas-pc-maintenance/2021-2022第一学年.jpg'/>
 
-作者：学姐朱逸云 <br/> 时间：2021-2022 第一学年
+作者：朱逸云学姐 <br/> 时间：2021-2022 第一学年
 
 ---
 
@@ -70,7 +70,7 @@ authors:
 
 <img width="300" alt="2022-2023第一学年" src='/assets/images/stas-pc-maintenance/2022-2023第一学年.png'/>
 
-作者：学姐朱逸云 <br/> 时间：2022-2023 第一学年
+作者：朱逸云学姐 <br/> 时间：2022-2023 第一学年
 
 ---
 
@@ -78,6 +78,6 @@ authors:
 
 <img width="300" alt="2022-2023第二学年" src='/assets/images/stas-pc-maintenance/2022-2023第二学年.png'/>
 
-作者：学姐朱逸云 <br/> 时间：2022-2023 第二学年
+作者：朱逸云学姐 <br/> 时间：2022-2023 第二学年
 
 ---

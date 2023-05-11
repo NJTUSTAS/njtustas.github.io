@@ -1,5 +1,6 @@
 ---
 title: One-Wire简介
+slug: /electronics/communication/serial/one-wire
 ---
 
 # One-Wire 简介

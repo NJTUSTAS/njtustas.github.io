@@ -1,5 +1,6 @@
 ---
 title: LED Board简介
+slug: /electronics/projects/led-board
 ---
 
 # LED Board

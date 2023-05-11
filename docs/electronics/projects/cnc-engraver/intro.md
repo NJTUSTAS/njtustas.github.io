@@ -1,5 +1,6 @@
 ---
 title: 激光雕刻机简介
+slug: /electronics/projects/cnc-engraver
 ---
 
 # 激光雕刻机

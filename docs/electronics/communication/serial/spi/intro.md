@@ -1,5 +1,6 @@
 ---
 title: SPI简介
+slug: /electronics/communication/serial/spi
 ---
 
 # SPI 简介

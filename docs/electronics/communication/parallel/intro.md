@@ -1,5 +1,6 @@
 ---
 title: 并行通信简介
+slug: /electronics/communication/parallel
 ---
 
 # 并行通信简介

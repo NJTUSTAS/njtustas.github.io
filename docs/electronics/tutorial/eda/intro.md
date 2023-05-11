@@ -1,5 +1,6 @@
 ---
 title: EDA入门简介
+slug: /electronics/tutorial/eda
 ---
 
 # EDA 入门简介

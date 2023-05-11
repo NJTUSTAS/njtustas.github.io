@@ -1,5 +1,6 @@
 ---
 title: UART简介
+slug: /electronics/communication/serial/uart
 ---
 
 # UART 简介

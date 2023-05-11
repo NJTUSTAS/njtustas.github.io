@@ -1,5 +1,6 @@
 ---
 title: C 语言简介
+slug: /electronics/c-lang
 ---
 
 # C 语言简介

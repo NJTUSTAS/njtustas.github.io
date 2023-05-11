@@ -1,5 +1,6 @@
 ---
 title: 项目制作简介
+slug: /electronics/projects
 ---
 
 # 项目制作

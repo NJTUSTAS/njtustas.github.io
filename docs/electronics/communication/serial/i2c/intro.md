@@ -1,5 +1,6 @@
 ---
 title: I2C简介
+slug: /electronics/communication/serial/i2c
 ---
 
 # I2C 简介

@@ -4,6 +4,8 @@
 const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
+const footer = require("./config/footer");
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "技术部文档",
@@ -63,7 +65,7 @@ const config = {
           },
           {
             to: "/blog",
-            label: "动态文章",
+            label: "文章动态",
             position: "left"
           },
           {
@@ -75,43 +77,7 @@ const config = {
       },
       footer: {
         style: "dark",
-        links: [
-          {
-            title: "文档",
-            items: [
-              {
-                label: "电子组文档",
-                to: "/docs/electronics/intro"
-              }
-            ]
-          },
-          {
-            title: "资源",
-            items: [
-              {
-                label: "南工OJ",
-                href: "https://acm.online.njtech.edu.cn"
-              },
-              {
-                label: "值班笔记",
-                href: "https://punch.mraddict.top"
-              }
-            ]
-          },
-          {
-            title: "友链",
-            items: [
-              {
-                label: "远景实验室",
-                href: "https://www.vistalab.top"
-              },
-              {
-                label: "Mars工作室",
-                href: "https://studio.online.njtech.edu.cn"
-              }
-            ]
-          }
-        ],
+        links: [...footer],
         copyright: `Copyright &copy; ${new Date().getFullYear()} 校大学生科协. All rights reversed.`
       },
       prism: {

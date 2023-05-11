@@ -1,5 +1,6 @@
 ---
 title: 电子组文档
+slug: /electronics
 ---
 
 # 电子组文档

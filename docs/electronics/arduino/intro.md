@@ -1,5 +1,6 @@
 ---
 title: Arduino简介
+slug: /electronics/arduino
 ---
 
 # Arduino 简介

@@ -1,5 +1,6 @@
 ---
 title: Git简介
+slug: /electronics/tutorial/git
 ---
 
 # Git 简介

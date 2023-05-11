@@ -1,5 +1,6 @@
 ---
 title: 通信专题
+slug: /electronics/communication
 ---
 
 # 通信专题

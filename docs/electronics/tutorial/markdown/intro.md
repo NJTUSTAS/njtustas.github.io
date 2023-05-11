@@ -1,5 +1,6 @@
 ---
 title: Markdown简介
+slug: /electronics/tutorial/markdown
 ---
 
 # Markdown 简介
