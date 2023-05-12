@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://njtustas.github.io/blog</id>
+    <title>技术部文档 Blog</title>
+    <updated>2023-05-12T12:32:51.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://njtustas.github.io/blog"/>
+    <subtitle>技术部文档 Blog</subtitle>
+    <icon>https://njtustas.github.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[校科协义务维修海报编年史]]></title>
+        <id>https://njtustas.github.io/blog/stas-pc-maintenance-history</id>
+        <link href="https://njtustas.github.io/blog/stas-pc-maintenance-history"/>
+        <updated>2023-05-12T12:32:51.000Z</updated>
+        <summary type="html"><![CDATA[南工大学校科协有着几十年的义务维修经验，每次义务维修也都有着自己做海报的传统，由于我发现近年来的校科协义务维修的海报越来越有大学生的活力，所以想着搜集一下以往的海报，做成一个编年史，也希望后人能继续丰富海报的内容。]]></summary>
+        <content type="html"><![CDATA[<p>南工大学校科协有着几十年的义务维修经验，每次义务维修也都有着自己做海报的传统，由于我发现近年来的校科协义务维修的海报越来越有大学生的活力，所以想着搜集一下以往的海报，做成一个编年史，也希望后人能继续丰富海报的内容。</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="2018-2019">2018-2019<a href="#2018-2019" class="hash-link" aria-label="2018-2019的直接链接" title="2018-2019的直接链接">​</a></h2><p><strong>第一学年</strong></p><img loading="lazy" width="300" alt="2018-2019 第一学年" src="/assets/images/stas-pc-maintenance/2018-2019第一学年.jpg" class="img_ev3q"><p>作者：巨佬张龙腾 <br> 时间：2018-2019 第一学年</p><hr><p><strong>第二学年</strong></p><img loading="lazy" width="300" alt="2018-2019 第二学年" src="/assets/images/stas-pc-maintenance/2018-2019第二学年.jpg" class="img_ev3q"><p>作者：巨佬张龙腾 <br> 时间：2018-2019 第二学年</p><hr><h2 class="anchor anchorWithStickyNavbar_LWe7" id="2020-2021">2020-2021<a href="#2020-2021" class="hash-link" aria-label="2020-2021的直接链接" title="2020-2021的直接链接">​</a></h2><p><strong>第一学年</strong></p><img loading="lazy" width="500" alt="2020-2021第一学年" src="/assets/images/stas-pc-maintenance/2020-2021第一学年.jpg" class="img_ev3q"><p>作者：巨佬徐赵钦 <br> 时间：2020-2021 第一学年</p><hr><p><strong>第二学年第一次义务维修</strong></p><img loading="lazy" width="300" alt="2020-2021第二学年" src="/assets/images/stas-pc-maintenance/2020-2021第二学年(1).png" class="img_ev3q"><p>作者：大一学弟张舒远 <br> 时间：2020-2021 第二学年</p><hr><p><strong>第二学年第二次义务维修</strong></p><img loading="lazy" width="300" alt="2020-2021第二学年" src="/assets/images/stas-pc-maintenance/2020-2021第二学年(2).png" class="img_ev3q"><p>作者：大一学弟张舒远 <br> 时间：2020-2021 第二学年</p><hr><h2 class="anchor anchorWithStickyNavbar_LWe7" id="2021-2022">2021-2022<a href="#2021-2022" class="hash-link" aria-label="2021-2022的直接链接" title="2021-2022的直接链接">​</a></h2><p><strong>第一学年</strong></p><img loading="lazy" width="300" alt="2021-2022第一学年" src="/assets/images/stas-pc-maintenance/2021-2022第一学年.jpg" class="img_ev3q"><p>作者：朱逸云学姐 <br> 时间：2021-2022 第一学年</p><hr><h2 class="anchor anchorWithStickyNavbar_LWe7" id="2022-2023">2022-2023<a href="#2022-2023" class="hash-link" aria-label="2022-2023的直接链接" title="2022-2023的直接链接">​</a></h2><p><strong>第一学年</strong></p><img loading="lazy" width="300" alt="2022-2023第一学年" src="/assets/images/stas-pc-maintenance/2022-2023第一学年.png" class="img_ev3q"><p>作者：朱逸云学姐 <br> 时间：2022-2023 第一学年</p><hr><p><strong>第二学年</strong></p><img loading="lazy" width="300" alt="2022-2023第二学年" src="/assets/images/stas-pc-maintenance/2022-2023第二学年.png" class="img_ev3q"><p>作者：朱逸云学姐 <br> 时间：2022-2023 第二学年</p><hr>]]></content>
+        <author>
+            <name>Cael</name>
+            <uri>https://github.com/MR-Addict</uri>
+        </author>
+        <category label="义务维修" term="义务维修"/>
+        <category label="海报" term="海报"/>
+    </entry>
+</feed>
