@@ -4,22 +4,14 @@ import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 
 import style from "./index.module.css";
 
-function HomepageHeader() {
-  const { siteConfig } = useDocusaurusContext();
-
-  return (
-    <main className={style.main}>
-      <h1 className="hero__title">{siteConfig.title}</h1>
-      <p className="hero__subtitle">{siteConfig.tagline}</p>
-    </main>
-  );
-}
-
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout description={siteConfig.title}>
-      <HomepageHeader />
+      <main className={style.main}>
+        <h1>{siteConfig.title}</h1>
+        <p>{siteConfig.tagline}</p>
+      </main>
     </Layout>
   );
 }

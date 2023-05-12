@@ -11,5 +11,10 @@
 }
 
 .main h1 {
+  font-size: 3rem;
   color: var(--ifm-color-primary);
+}
+
+.main p {
+  font-size: 1.5rem;
 }

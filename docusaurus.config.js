@@ -78,7 +78,7 @@ const config = {
       footer: {
         style: "dark",
         links: [...footer],
-        copyright: `Copyright &copy; ${new Date().getFullYear()} 校大学生科协. All rights reversed.`
+        copyright: `Copyright &copy; ${new Date().getFullYear()} 校大学生科协`
       },
       prism: {
         theme: lightCodeTheme,
